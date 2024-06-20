@@ -63,7 +63,7 @@
   <a href="https://www.facebook.com/draggon.huong/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="phuwowsc-facebook" />
   </a>
-  <a href="https://instagram.com" target="blank">
+  <a href="https://instagram.com/thu_huong4777" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="phuwowsc-instagram" />
   </a>
   <a href="mailto:thu872315@gmail.com" target="top">
